@@ -18,12 +18,14 @@ html {
   padding-bottom: 18px;
   text-decoration: none;
   font-size: 16px;
+  font-family: "Montagu Slab", serif;
 
 }
 
 .logo1{
   height:123px;
   width:123px;
+  
 
 }
 
@@ -69,10 +71,11 @@ html {
 .broken{
   justify-content: center;
   display:flex;
+  font-family: "Montagu Slab", serif;
 }
 h3{
   color:white;
-  ffont-family: "Montagu Slab", serif;
+  font-family: "Montagu Slab", serif;
 }
 h5{
   text-align: center;
@@ -134,6 +137,7 @@ h2{
   padding:25px;
   justify-content: space-between;
   display:flex;
+  font-family: "Montagu Slab", serif;
 }
 .ed1{
   display:flex;
@@ -181,8 +185,8 @@ p{
   width:150px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
-  text-decoration: none;
-  
+  text-decoration: none; 
+  font-family: "Montagu Slab", serif;
 }
 .smoll:hover{
   color:#19255a;
@@ -211,7 +215,9 @@ p{
   color:black;
   font-size: 25px;
   text-align: center;
+  font-family: "Montagu Slab", serif;
 }
+
 
 .thingy{
   height:800px;
@@ -221,6 +227,7 @@ p{
   padding: 12px 16px;
   text-decoration: none;
   display: block;
+  font-family: "Montagu Slab", serif;
 }
 
 .dropdown:hover .dropdown-content {display: block;}
