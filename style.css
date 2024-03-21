@@ -1,13 +1,13 @@
 html {
   height: 100%;
   width: 100%;
+  font-family: "Montagu Slab", serif;
 
 }
 
 .topnav {
   background-color: #19255a;
- 
-  font-family: Roboto, sans-serif;
+  font-family: "Montagu Slab", serif;
   display:flex;
   justify-content: center;
 }
@@ -28,7 +28,7 @@ html {
 }
 
 .title2{
-  font-family: "Tauri", sans-serif;
+  font-family: "Montagu Slab", serif;
   font-weight: 900;
   font-style: normal;
   font-size: 35px;
@@ -37,7 +37,7 @@ html {
   text-align: center;
 }
 .title1{
-  font-family: "Tauri", sans-serif;
+  font-family: "Montagu Slab", serif;
   font-weight: 900;
   font-style: normal;
   font-size: 25px;
@@ -46,7 +46,7 @@ html {
   
 }
 .title3{
-  font-family: "Tauri", sans-serif;
+  font-family: "Montagu Slab", serif;
   font-weight: 900;
   font-style: normal;
   font-size: 35px;
@@ -54,7 +54,7 @@ html {
   display:flex;
 }
 .title4{
-  font-family: "Tauri", sans-serif;
+  font-family: "Montagu Slab", serif;
   font-weight: 900;
   font-style: normal;
   font-size: 25px;
@@ -72,17 +72,17 @@ html {
 }
 h3{
   color:white;
-  font-family: "Tauri", sans-serif;
+  ffont-family: "Montagu Slab", serif;
 }
 h5{
   text-align: center;
   font-size:25px;
   color:black;
   margin-top: 1px;
-  font-family: "Tauri", sans-serif;
+  font-family: "Montagu Slab", serif;
 }
 h2{
-  font-family: "Tauri", sans-serif;
+  font-family: "Montagu Slab", serif;
   font-size: 30px;
   color: black;
   font-weight: bold;
@@ -146,6 +146,7 @@ h2{
 }
 .dropbtn {
   background-color: #19255a;
+  font-family: "Montagu Slab", serif;
   color:white;
   padding: 18px 20px;
   font-size: 1.125em;
@@ -159,7 +160,19 @@ h2{
   position: relative;
   display: inline-block;
 }
-
+.satire{
+  color:black;
+  font-size: 25px;
+}
+.liar{
+  width:1000px;
+  margin:auto;
+}
+p{
+  font-size: 22.5px;
+  color:black;
+  font-family: "Montagu Slab", serif;
+}
 .dropdown-content {
   display: none;
   position: absolute;
