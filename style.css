@@ -1,0 +1,220 @@
+html {
+  height: 100%;
+  width: 100%;
+
+}
+
+.topnav {
+  background-color: #19255a;
+ 
+  font-family: Roboto, sans-serif;
+  display:flex;
+  justify-content: center;
+}
+.topnav a {
+  color: #f2f2f2;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  text-decoration: none;
+  font-size: 16px;
+
+}
+
+.logo1{
+  height:123px;
+  width:123px;
+
+}
+
+.title2{
+  font-family: "Tauri", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 35px;
+  color:#19255a;
+  
+  text-align: center;
+}
+.title1{
+  font-family: "Tauri", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 25px;
+  color:#19255a;
+  text-align: center;
+  
+}
+.title3{
+  font-family: "Tauri", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 35px;
+  color:white;
+  display:flex;
+}
+.title4{
+  font-family: "Tauri", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 25px;
+  color:white;
+
+}
+#meow{
+  height:500px;
+  width:1100px;
+  margin:10px;
+}
+.broken{
+  justify-content: center;
+  display:flex;
+}
+h3{
+  color:white;
+  font-family: "Tauri", sans-serif;
+}
+h5{
+  text-align: center;
+  font-size:25px;
+  color:black;
+  margin-top: 1px;
+  font-family: "Tauri", sans-serif;
+}
+h2{
+  font-family: "Tauri", sans-serif;
+  font-size: 30px;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 3px;
+}
+.pic1{
+  height:350px;
+  width:400px;
+}
+.candy{
+  text-align: center;
+}
+
+.omg{
+  justify-content: space-evenly;
+  display: flex;
+}
+.sks{
+  height:350px;
+  width:400px;
+  border:4px black solid;
+  padding:10px;
+  margin-top:15px;
+  margin-right:15px;
+  margin-left:15px;
+}
+.sks:hover{
+  filter: brightness(70%);
+}
+.mid{
+  display:flex;
+  justify-content:center;
+}
+.mid1{
+  height:300px;
+  width:500px;
+  padding:10px;
+}
+.mid2{
+  height:300px;
+  width:500px;
+  padding:10px;
+}
+
+.footer{
+  background-color:#19255a;
+  height:325px;
+  padding:25px;
+  justify-content: space-between;
+  display:flex;
+}
+.ed1{
+  display:flex;
+  justify-content: center;
+  padding-right:100px;
+}
+.ed3{
+
+  padding-left:100px;
+}
+.dropbtn {
+  background-color: #19255a;
+  color:white;
+  padding: 18px 20px;
+  font-size: 1.125em;
+  border: none;
+}
+.dropbtn:hover{
+  text-decoration: underline;
+  text-decoration-color:#d5ae42 ;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  font-size: 10px;
+  background-color: #f1f1f1;
+  width:150px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  text-decoration: none;
+  
+}
+.smoll:hover{
+  color:#19255a;
+  background-color: #d5ae42;
+}
+.dropdown-content:hover{
+  text-decoration: none;
+  
+}
+.lord1{
+  justify-content: center;
+  display:flex;
+}
+.lord{
+  padding:10px;
+  margin:10px;
+  background-color: whitesmoke;
+  width:1000px;
+  height:900px;
+}
+#thingy1{
+  justify-content: center;
+  display:flex;
+}
+#club{
+  color:black;
+  font-size: 25px;
+  text-align: center;
+}
+
+.thingy{
+  height:800px;
+}
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown:hover .dropdown-content {display: block;}
+.vid{
+ padding:10px; 
+}
+.dad{
+  justify-content:center;
+  display:flex;
+}
